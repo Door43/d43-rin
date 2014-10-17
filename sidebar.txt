@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rin:home|Door43 (rin)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rin|d43-rin repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rin/archive/master.zip|d43-rin.zip]]
+
+**Recent Changes**
+{{changes>ns = rin}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rin|Ethnologue data]]
+
